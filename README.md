@@ -29,4 +29,4 @@ business card image.
 6. Test the application: Tested the application thoroughly to ensure that it works as
 expected.
 
-Technologies Used: OCR,streamlit GUI, SQL,Data Extraction
+Technologies Used: easyOCR,streamlit GUI, MongoDB,Data Extraction
