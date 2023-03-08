@@ -1,3 +1,6 @@
+Self explanatory Video on linkedIN:
+https://www.linkedin.com/posts/shymayur_dataanalytics-datascience-mongodb-activity-7039216074562678784-ckRI?utm_source=share&utm_medium=member_android
+
 #BizCardX: Extracting Business Card Data with OCR
 
 A solution, which is capable of reading info of a business card &amp; save it to database for further use.
